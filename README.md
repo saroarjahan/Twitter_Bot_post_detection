@@ -6,7 +6,7 @@ Its trained non 50k bot and real post using Open AI and BERT. I have recived ove
 ### Dataset collected from open-soruce and benchmarked data has been used.  TwiBot-20 (https://arxiv.org/abs/2106.13088)
 
 
-### Download model_1.pt from google drive or send me an email saroarjahan.bd<at>gmail.com
+### Download model_1.pt from google drive or if u face issues  send me an email saroarjahan.bd at gmail.com
 
 https://drive.google.com/file/d/1pxeexKiZmSFRNvg940fSc4AhptaM9mka/view?usp=sharing
 

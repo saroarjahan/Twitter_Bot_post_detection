@@ -1,4 +1,25 @@
 # Twitter_Bot_post_detection
 
-This reposiry has twitter Bot post detetcion trained model as like Botometer. Since botometer is premium and need to pay for API therefore I made this one is open source.
-Its trained non 100k bot and real post using Open AI and BERT. I have recived total of 97% accuracy of dtection.
+This reposiry has twitter Bot post detetcion trained model as like Botometer. Since botometer is premium and need to pay for API therefore I made this one as open source.
+Its trained non 50k bot and real post using Open AI and BERT. I have recived total of 98% accuracy of dtection.
+
+## Dataset collected from open-soruce and benchmarked data has been used.  TwiBot-20 (https://arxiv.org/abs/2106.13088)
+
+
+
+
+## Download model_1.pt from google drive or send me an email saroarjahan.bd<at>gmail.com
+
+https://drive.google.com/file/d/1pxeexKiZmSFRNvg940fSc4AhptaM9mka/view?usp=sharing
+
+## Instruction,  Run file model.py
+
+
+## some libraries u may need
+
+1. pip install torch
+2. pip install transformers
+3. pip install pandas
+
+
+

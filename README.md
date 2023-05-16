@@ -7,7 +7,10 @@ Our model has been trained on 50,000 bot and genuine posts using state-of-the-ar
 ## Dataset
 
 The dataset used for training was sourced from open-access resources, and benchmarked data was employed for testing purposes. One such dataset used was TwiBot-20.
-Reference papaer: @inproceedings{feng2021twibot,
+
+Reference papaer: 
+
+@inproceedings{feng2021twibot,
   title={Twibot-20: A comprehensive twitter bot detection benchmark},
   author={Feng, Shangbin and Wan, Herun and Wang, Ningnan and Li, Jundong and Luo, Minnan},
   booktitle={Proceedings of the 30th ACM International Conference on Information \& Knowledge Management},

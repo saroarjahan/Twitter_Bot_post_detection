@@ -1,23 +1,27 @@
-# Twitter_Bot_post_detection
+# Twitter Bot Post Detection
 
-This reposiry has twitter Bot post detetcion trained model as like Botometer. Since botometer is premium and need to pay for API therefore I made this one as open source.
-Its trained non 50k bot and real post using Open AI and BERT. I have recived overall total of 87% accuracy of bot dtection.
+This repository contains a trained model for detecting Twitter bot posts, akin to the functionality of Botometer. Given that Botometer is a premium service requiring payment for API access, this project has been developed as an open-source alternative.
 
-### Dataset collected from open-soruce and benchmarked data has been used.  TwiBot-20 (https://arxiv.org/abs/2106.13088)
+Our model has been trained on 50,000 bot and genuine posts using state-of-the-art machine learning technologies, such as OpenAI and BERT. It has achieved an overall accuracy of 87% in bot detection.
 
+## Dataset
 
-### Download model_1.pt from google drive or if u face issues  send me an email saroarjahan.bd at gmail.com
+The dataset used for training was sourced from open-access resources, and benchmarked data was employed for testing purposes. One such dataset used was TwiBot-20, which can be found [here](https://arxiv.org/abs/2106.13088).
 
-https://drive.google.com/file/d/1pxeexKiZmSFRNvg940fSc4AhptaM9mka/view?usp=sharing
+## Model Access
 
-### Instruction,  Run file model.py
+The trained model, `model_1.pt`, is available for download from Google Drive via the following [link](https://drive.google.com/file/d/1pxeexKiZmSFRNvg940fSc4AhptaM9mka/view?usp=sharing). Should you encounter any issues in accessing the model, please feel free to contact me via email at saroarjahan.bd@gmail.com.
 
+## Usage Instructions
 
-### Some libraries u may need
+To use the model, run the `model.py` or `model.ipynb` file.
 
-1. pip install torch
-2. pip install transformers
-3. pip install pandas
+## Required Libraries
 
+You may need to install the following libraries:
 
+1. `torch`: Install using `pip install torch`
+2. `transformers`: Install using `pip install transformers`
+3. `pandas`: Install using `pip install pandas`
 
+These libraries are necessary for running the model and processing data.

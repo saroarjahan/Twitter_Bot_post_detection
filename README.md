@@ -24,7 +24,7 @@ The trained model, `model_1.pt`, is available for download from Google Drive via
 
 ## Usage Instructions
 
-To use the model, run the `model.py` or `model.ipynb` file.
+To use the model, run the `model.py` or `model.ipynb` file, and make sure u have downloawd model_1.pt bfeore running it.
 
 ## Required Libraries
 
